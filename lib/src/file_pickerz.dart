@@ -1,5 +1,18 @@
 import '../file_pickerz_platform_interface.dart';
 import 'file_picker_result.dart';
+enum FileType {
+  any,
+  media,
+  image,
+  video,
+  audio,
+  custom,
+}
+
+enum FilePickerStatus {
+  picking,
+  done,
+}
 
 class FilePickerz {
 

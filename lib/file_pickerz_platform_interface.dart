@@ -1,21 +1,7 @@
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
+import 'file_pickerz.dart';
 import 'file_pickerz_method_channel.dart';
-import 'src/file_picker_result.dart';
-
-enum FileType {
-  any,
-  media,
-  image,
-  video,
-  audio,
-  custom,
-}
-
-enum FilePickerStatus {
-  picking,
-  done,
-}
 
 abstract class FilePickerzPlatform extends PlatformInterface {
   /// Constructs a FilePickerzPlatform.

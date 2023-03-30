@@ -4,9 +4,8 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
+import 'file_pickerz.dart';
 import 'file_pickerz_platform_interface.dart';
-import 'src/file_picker_result.dart';
-import 'src/platform_file.dart';
 
 class MethodChannelFilePickerz extends FilePickerzPlatform {
 
