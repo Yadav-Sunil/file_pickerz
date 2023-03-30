@@ -3,7 +3,7 @@ description: A package that allows you to use a native file explorer to pick sin
 homepage: https://github.com/Yadav-Sunil/file_pickerz
 repository: https://github.com/Yadav-Sunil/file_pickerz
 issue_tracker: https://github.com/Yadav-Sunil/file_pickerz/issues
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: ">=2.17.0 <3.0.0"

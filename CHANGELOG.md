@@ -1,3 +1,6 @@
+## 1.0.3
+* Resolve issue in ios pick file
+
 ## 1.0.2
 * change repository path
 
